@@ -23,9 +23,33 @@ ZCZC W01  30 L12 Assignment #02
 ZCZC W01 120 L13 Assignment #03
 ZCZC W01  30 L14 Assignment #04
 ZCZC W01  20 L15 Assignment #05
-ZCZC W01  25 L11 Assignment #06
-ZCZC W01  10 L12 Assignment #07
-ZCZC W01  60 L13 Assignment #08
-ZCZC W01  30 L14 Assignment #09
+ZCZC W01  25 L16 Assignment #06
+ZCZC W01  10 L17 Assignment #07
+ZCZC W01  60 L18 Assignment #08
+ZCZC W01  30 L19 Assignment #09
 ZCZC W01  15 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01  25 L32 YouTube: study scripting
+ZCZC W02  45 L01 SCELE/Discord related	
+ZCZC W02 100 L02 ZOOM meetings related	
+ZCZC W02  15 L03 GitHub related	
+ZCZC W02  30 L04 GitHub Pages related	
+ZCZC W02  60 L05 Quiz related: study
+ZCZC W02  15 L06 References/Books/Documents/GSGS related
+ZCZC W02  60 L11 Assignment #01
+ZCZC W02  30 L12 Assignment #02
+ZCZC W02 240 L13 Assignment #03
+ZCZC W02  05 L14 Assignment #04
+ZCZC W02  10 L15 Assignment #05
+ZCZC W02  05 L16 Assignment #06
+ZCZC W02  05 L17 Assignment #07
+ZCZC W02  10 L18 Assignment #08
+ZCZC W02  30 L19 Assignment #09
+ZCZC W02  15 L20 Assignment #10
+ZCZC W02  15 L09 Assignment in General: #11
+ZCZC W02  15 L09 Assignment in General: #12
+ZCZC W02  15 L09 Assignment in General: #13
+ZCZC W02  20 L22 Quiz
+ZCZC W02  60 L24 Bash, Regex, SED, AWK.: study
+ZCZC W02  30 L26 C-language
+ZCZC W02  15 L27 GnuPG, key-gen, encrypt/decrypt.
+
