@@ -6,4 +6,6 @@ Welcome to my repository of Operating System 2021-2
 2. [My Repository](https://github.com/hanifsyuaib/os212)
 3. [My Links](https://hanifsyuaib.github.io/os212/LINKS/)
 
-See you again! 👋
+
+
+**See you again!** 👋
