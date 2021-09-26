@@ -29,3 +29,13 @@ Memberikan penjelasan mengenai GNU Privacy Guard dan juga cara pemakaian GPG Sof
 Diberikan penjelasan dan contoh dari C Programming dimana ternyata mirip seperti Java, sehingga tidak terlalu sulit untuk memahami penggunaan syntax-nya. Bisa langsung mampir jika ada syntax C yang kelupaan.
 5. [Pointers in C Programming](https://www.guru99.com/c-pointers.html)<br>
 Penjelasan dan cara pemakaian pointers dalam C Programming. Sebaiknya dipahami karena pointers akan dipakai dalam perkuliahan Operating Systems (CMIIW).
+
+### Week 🌳
+1. [Introduction to File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
+Dijelaskan definisi File Systems, fungsi dasar File Systems, Directory structure, Melakukan mounting, dan lain-lainnya. Website yang tepat untuk memulai mempelajari File Systems.
+2. [FUSE - File Systems in User Space](https://northstar-www.dartmouth.edu/~richard/WhitePapers/FUSE.html)<br>
+Diberikan overview mengenai FUSE, kemampuan dari FUSE, keuntungan, dan kerugian dari FUSE. Website ini membantu memahami FUSE secara umum.
+3. [How to Develop your own File Systems with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
+Penjelasan step-by-step dalam membuat File Systems dengan FUSE. Hal tersebut dapat dilakukan tanpa memerlukan kernel programming.
+4. [How to Format and Mount Disk Partitions](https://phoenixnap.com/kb/linux-format-disk)<br>
+Diberikan step-by-step dalam Formatting dan Mounting Disk Partition, serta penjelasan sedikit mengenai File Systems. Website yang tepat dikunjungi setiap ingin memakai disk partition.
