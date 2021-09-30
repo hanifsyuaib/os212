@@ -6,7 +6,7 @@ permalink: /LINKS/
 
 ### Hope you find something useful in here! 😁
 
-### Week 0️⃣1️⃣ 
+## Week 0️⃣1️⃣ 
 1. [What is Operating System?](https://www.mygreatlearning.com/blog/what-is-operating-system)<br>
 Menjelaskan sejarah munculnya OS, apa itu OS, kegunaan dari OS, dan lain-lainnya. Website tersebut membantu memahami OS secara umum.
 2. [Linux Commands](https://www.javatpoint.com/linux-commands)<br>
@@ -20,7 +20,7 @@ Pemakaian command grep dengan regular expression (Regex) yang support 3 jenis sy
 6. [Learning AWK](https://www.tutorialspoint.com/awk/awk_overview.htm)<br>
 Berisi tutorial penggunaan AWK secara lengkap. Dapat dipelajari untuk memperluas pemahaman mengenai AWK dan seandainya ada syntax yang kelupaan atau perlu contoh bisa langsung mampir ke website-nya.
 
-### Week ✌️
+## Week ✌️
 1. [What is Cybersecurity?](https://searchsecurity.techtarget.com/definition/cybersecurity)<br>
 Dijelaskannya mengapa Cybersecurity itu penting, cara kerja dari Cybersecurity, keuntungan yang diberikan dari Cybersecurity, dan lain-lainnya. Website ini dapat menjawab pertanyaan anda mengenai Cybersecurity secara umum.
 3. [GNU Privacy Guard (GPG)](https://guides.library.illinois.edu/data_encryption/gpg)<br>
@@ -30,7 +30,7 @@ Diberikan penjelasan dan contoh dari C Programming dimana ternyata mirip seperti
 5. [Pointers in C Programming](https://www.guru99.com/c-pointers.html)<br>
 Penjelasan dan cara pemakaian pointers dalam C Programming. Sebaiknya dipahami karena pointers akan dipakai dalam perkuliahan Operating Systems (CMIIW).
 
-### Week 🌳
+## Week 🌳
 1. [Introduction to File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)<br>
 Dijelaskan definisi File Systems, fungsi dasar File Systems, Directory structure, Melakukan mounting, dan lain-lainnya. Website yang tepat untuk memulai mempelajari File Systems.
 2. [FUSE - File Systems in User Space](https://northstar-www.dartmouth.edu/~richard/WhitePapers/FUSE.html)<br>
