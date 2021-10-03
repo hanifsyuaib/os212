@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 ## List of links I found helpful 
 
-### Hope you find something useful in here! 😁
+### Hope you find something useful in here! 😊
 
 ### Week 0️⃣1️⃣ 
 1. [What is Operating System?](https://www.mygreatlearning.com/blog/what-is-operating-system)<br>
@@ -39,3 +39,11 @@ Diberikan overview mengenai FUSE, kemampuan dari FUSE, keuntungan, dan kerugian 
 Penjelasan step-by-step dalam membuat File Systems dengan FUSE. Hal tersebut dapat dilakukan tanpa memerlukan kernel programming.
 4. [How to Format and Mount Disk Partitions](https://phoenixnap.com/kb/linux-format-disk)<br>
 Diberikan step-by-step dalam Formatting dan Mounting Disk Partition, serta penjelasan sedikit mengenai File Systems. Website yang tepat dikunjungi setiap ingin memakai disk partition.
+
+### Week 🍀
+1. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+Penjelasan konsep dasar mengenai Memory Management, seperti Address Space, Linking, Memory Allocation, Paging, dan lain-lain. Website ini memberi pemahaman Memory Management secara menyeluruh.
+2. [Difference Between Logical and Physical Address](http://www.meerutcollege.org/mcm_admin/upload/1587052623.pdf)<br>
+Perbedaan antara Logical dan Physical Address dilanjutkan dengan pembahasan lainnya, seperti Segmentation dan Virtual Memory. Dapat dijadikan pemahaman tambahan dari nomor 1.
+3. [Pointers in C Well Structured Explanation](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
+Dijelaskan fundamental dari Pointers lalu pemakaian Pointers dengan arrays, functions, dan structure. Website ini menjelaskan Pointers secara terstruktur sehingga mudah untuk dipahami.
