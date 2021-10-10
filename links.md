@@ -47,3 +47,10 @@ Penjelasan konsep dasar mengenai Memory Management, seperti Address Space, Linki
 Perbedaan antara Logical dan Physical Address dilanjutkan dengan pembahasan lainnya, seperti Segmentation dan Virtual Memory. Dapat dijadikan pemahaman tambahan dari nomor 1.
 3. [Pointers in C Well Structured Explanation](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
 Dijelaskan fundamental dari Pointers lalu pemakaian Pointers dengan arrays, functions, dan structure. Website ini menjelaskan Pointers secara terstruktur sehingga mudah untuk dipahami.
+
+### Week 🕔
+1. [What is Virtual Memory?](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+Penjelasan mengenai Virtual Memory yang mudah untuk dipahami. Website ini juga menjelaskan Page Replacement Algorithm dengan lengkap beserta contoh.
+2. [Structure of Page Table in Operating Systems](https://www.studytonight.com/operating-system/structure-of-page-table-in-operating-systems)<br>
+Diberikan pengertian dari Page Table dilanjutkan dengan karakteristiknya. Selain itu, disebutkan teknik-teknik yang dapat dipakai untuk Structuring the Page Table.
+
