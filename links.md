@@ -54,3 +54,10 @@ Penjelasan mengenai Virtual Memory yang mudah untuk dipahami. Website ini juga m
 2. [Structure of Page Table in Operating Systems](https://www.studytonight.com/operating-system/structure-of-page-table-in-operating-systems)<br>
 Diberikan pengertian dari Page Table dilanjutkan dengan karakteristiknya. Selain itu, disebutkan teknik-teknik yang dapat dipakai untuk Structuring the Page Table.
 
+### Week 👍
+1. [Process Management](https://www.guru99.com/process-management-pcb.html)<br>
+Dimulai dari penjelasan Process hingga Process Control Block (PCB). Website ini menjelaskan Process Management dengan lengkap.
+2. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+Semua tentang Thread dijelaskan, mulai dari definisi hingga Multithreading patterns. Selain itu, Concurrency juga dijelaskan. 
+3. [Multithreading vs Multiprocessing](https://www.guru99.com/difference-between-multiprocessing-and-multithreading.html)<br>
+Diberikan perbedaan antara Multithreading dan Multiprocessing. Selain itu, keduanya dijelaskan karakteristik dan kelebihannya. 
