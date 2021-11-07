@@ -61,3 +61,9 @@ Dimulai dari penjelasan Process hingga Process Control Block (PCB). Website ini 
 Semua tentang Thread dijelaskan, mulai dari definisi hingga Multithreading patterns. Selain itu, Concurrency juga dijelaskan. 
 3. [Multithreading vs Multiprocessing](https://www.guru99.com/difference-between-multiprocessing-and-multithreading.html)<br>
 Diberikan perbedaan antara Multithreading dan Multiprocessing. Selain itu, keduanya dijelaskan karakteristik dan kelebihannya. 
+
+### Week 7️⃣
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Menjelaskan konsep dari Process Synchronization. Selain itu, terdapat penjelasan mengenai Synchronization Hardware dan Mutex Locks.
+2. [Introduction to Deadlock](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+Dijelaskan definisi Deadlock, Deadlock Detection, Deadlock Prevention, dan hal lainnya. Website ini juga membahas perbedaan antara Deadlock dan Starvation.
