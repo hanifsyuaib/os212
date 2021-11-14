@@ -7,3 +7,4 @@ permalink: /TIPS/
 2. Buat catatan setiap sesi sinkronus
 3. Jika ingin tidur, pastikan nyalakan alarm sehingga Quiz tidak akan terlewat 
 4. Menjalankan dan mencoba memahami Demos pada week tersebut
+5. Ketika ingin mengulang kembali salah satu bagian dari Assignment, Jangan lupa untuk men-delete file yang terbentuk yang hasilnya salah

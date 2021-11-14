@@ -67,3 +67,9 @@ Diberikan perbedaan antara Multithreading dan Multiprocessing. Selain itu, kedua
 Menjelaskan konsep dari Process Synchronization. Selain itu, terdapat penjelasan mengenai Synchronization Hardware dan Mutex Locks.
 2. [Introduction to Deadlock](https://www.guru99.com/deadlock-in-operating-system.html)<br>
 Dijelaskan definisi Deadlock, Deadlock Detection, Deadlock Prevention, dan hal lainnya. Website ini juga membahas perbedaan antara Deadlock dan Starvation.
+
+### Week 🥚
+1. [CPU Scheduling](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+Berisi penjelasan mengenai definisi CPU Scheduling, tipe dari CPU Scheduling, hingga kriteria untuk CPU Scheduling. Selain itu, website ini membahas Dispatcher dan algoritma yang dapat digunakan untuk CPU scheduling.
+2. [Multiple Processor Scheduling ](https://binaryterms.com/multiple-processor-scheduling.html)<br> 
+Dijelaskan definisi dari Multiprocessor dan teknik untuk Multiprocessor Scheduling. Selain itu, website ini menjelaskan Processor Affinity, Load Balancing, dan Symmetric Multithreading. 
