@@ -73,3 +73,11 @@ Dijelaskan definisi Deadlock, Deadlock Detection, Deadlock Prevention, dan hal l
 Berisi penjelasan mengenai definisi CPU Scheduling, tipe dari CPU Scheduling, hingga kriteria untuk CPU Scheduling. Selain itu, website ini membahas Dispatcher dan algoritma yang dapat digunakan untuk CPU scheduling.
 2. [Multiple Processor Scheduling ](https://binaryterms.com/multiple-processor-scheduling.html)<br> 
 Dijelaskan definisi dari Multiprocessor dan teknik untuk Multiprocessor Scheduling. Selain itu, website ini menjelaskan Processor Affinity, Load Balancing, dan Symmetric Multithreading. 
+
+### Week 09
+1. [What is systemd?](https://www.linode.com/docs/guides/what-is-systemd/)<br>
+Dijelaskan mengenai systemd dengan bahasa yang mudah dimengerti. Selain itu, membahas systemd Units dan systemd Tools.
+2. [Unified Extensible Firmware Interface (UEFI)](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI)<br> 
+Dimulai dari definisi dan sejarah UEFI hingga keuntungan dan kelemahan dari UEFI. Website ini juga menjelaskan UEFI accessibility.
+3. [What's the Difference between UEFI and BIOS](https://www.easeus.com/partition-manager-software/uefi-vs-bios.html)<br>
+Diberikan penjelasan lengkap perbedaan dari UEFI dan BIOS. Dimulai dari definisi keduanya kemudian ditunjukkan perbedaan dari UEFI dan BIOS dengan contohnya.
