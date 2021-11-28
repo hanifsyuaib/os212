@@ -9,3 +9,4 @@ permalink: /TIPS/
 4. Menjalankan dan mencoba memahami Demos pada week tersebut
 5. Ketika ingin mengulang kembali salah satu bagian dari Assignment, Jangan lupa untuk men-delete file yang terbentuk yang hasilnya salah
 6. Semangattt. Jawabannya pasti ketemu klo GSGS. Klo ngga ketemu, tetep semangattt.
+7. Jangan lupa absen 
